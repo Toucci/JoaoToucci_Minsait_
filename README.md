@@ -1,4 +1,4 @@
-# AtividadeFinal_Minsait
+# Minsait - Atividade Final
 
 **Os arquivos de cada conta foram criados em um arquivo.py diferente. A ferramenta utilizada foi o Visual Studio Code.**
 
