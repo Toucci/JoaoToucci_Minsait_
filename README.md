@@ -1,4 +1,8 @@
 # AtividadeFinal_Minsait
+
+*Os arquivos de cada conta foram criados em um arquivo.py diferente. A ferramenta utilizada foi o Visual Studio Code.*
+
+***anotações para fazer o código***
 Realizar a atividade final proposta pelo professor Klismann.
 
 3 Classes (Conta, ContaCorrente, ContaPoupanca)
